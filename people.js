@@ -1,3 +1,3 @@
 console.log("people")
-let v=10
+let v=100
 
